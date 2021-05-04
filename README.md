@@ -13,7 +13,7 @@ amana1@iastate.edu
 				Introduction
 				------------
 
-This part is the final product of the project which utilizes all the previous
+This part is the final product of the project which utilizes all the 3
 parts to build a interactive terminal game for users to play. The following program
 uses -f switch to take the filename, -s switch to take the seed value in order to generate
 a random game, -1 for turn 1 and -3 for turn 3 and -l Limit , initial value for 
